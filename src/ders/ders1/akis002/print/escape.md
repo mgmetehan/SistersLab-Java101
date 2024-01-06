@@ -1,15 +1,13 @@
 \t - sekme.
 
-\b - geri silme (metinde bir ad?m geri gitme veya tek bir karakterin silinmesi).
+\b - geri silme (metinde bir adim geri gitme veya tek bir karakterin silinmesi).
 
-\n - yeni sat?r.
+\n - yeni satir.
 
-\r - sat?r ba??. ()
+\r - satir basi. ()
 
-\f - form beslemesi.
+\' tek alinti.
 
-\' tek al?nt?.
+\" cift tirnak.
 
-\" ?ift t?rnak.
-
-\\ ters e?ik ?izgi.
+\\ ters egik cizgi.

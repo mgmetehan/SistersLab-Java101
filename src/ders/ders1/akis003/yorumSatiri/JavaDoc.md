@@ -1,10 +1,10 @@
-Etiket        | A??klama                                       							| Syntax
+Etiket        | Aciklama                                       							| Syntax
 ------------- | ------------------------------------------------------------------------| -------------------------------
-@author       | Class’? yazan ki?i                             							| @author 
-{@code}       | Metodun kullan?m ?rne?ini vermek i?in           						| {@code …}
-@exception    | Metot istisnas? ve a??klamas?                   						| @exception istisna a??klama
-@param        | De?i?kenler, de?i?ken tipleri ve bu de?i?kenlerin a??klamalar?   		| @param de?i?ken – a??klama
-@return       | Metottan bir de?er d?n?yorsa a??klamas?         						| @return a??klama
-@see          | Ba?ka bir metod ya da a??klamaya referans g?stermek i?in kullan?l?r  	| @see referans
-@since        | Metodun olu?turma tarihi                        						| @since tarih
-@version      | S?n?f?n versiyon numaras?                        						| @version versiyon numaras?
+@author       | Class’i yazan kisi                             							| @author 
+{@code}       | Metodun kullanim ornegini vermek icin           						| {@code …}
+@exception    | Metot istisnasi ve aciklamasi                   						| @exception istisna aciklama
+@param        | Degiskenler, degisken tipleri ve bu degiskenlerin aciklamalari   		| @param degisken – aciklama
+@return       | Metottan bir deger donuyorsa aciklamasi         						| @return aciklama
+@see          | Baska bir metod ya da aciklamaya referans gostermek icin kullanilir  	| @see referans
+@since        | Metodun olusturma tarihi                        						| @since tarih
+@version      | Sinifin versiyon numarasi                        						| @version versiyon numarasi

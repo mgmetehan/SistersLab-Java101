@@ -1,20 +1,20 @@
 **String Veri Tipi:**
 
-- `String` veri tipi, metinsel verileri temsil etmek i?in kullan?l?r ve Java'da bir s?n?ft?r.
-- Bir metin veya karakter dizisi, ?ift t?rnak i?inde tan?mlanarak bir `String` de?i?kenine atan?r.
+- `String` veri tipi, metinsel verileri temsil etmek icin kullanilir ve Java'da bir siniftir.
+- Bir metin veya karakter dizisi, cift tirnak icinde tanimlanarak bir `String` degiskenine atanir.
   ```java
   String isim = "John";
   ```
 
-- `String` veri tipi, de?i?tirilemez (immutable) ?zelli?e sahiptir. Yani, bir kez olu?turulduktan sonra ?zerinde do?rudan de?i?iklik yap?lamaz. Ancak, yeni bir `String` nesnesi olu?turarak de?i?iklikler yap?labilir.
+- `String` veri tipi, degistirilemez (immutable) ozellige sahiptir. Yani, bir kez olusturulduktan sonra uzerinde dogrudan degisiklik yapilamaz. Ancak, yeni bir `String` nesnesi olusturarak degisiklikler yapilabilir.
 
-- `String` s?n?f?, metin i?leme i?levselli?i sa?layan bir dizi metod i?erir. Bu metodlar arac?l???yla metin birle?tirme, alt dizilere eri?im, b?y?kl?k k???kl?k kar??la?t?rmalar? gibi bir?ok metinsel i?lem ger?ekle?tirilebilir.
+- `String` sinifi, metin isleme islevselligi saglayan bir dizi metod icerir. Bu metodlar araciligiyla metin birlestirme, alt dizilere erisim, buyukluk kucukluk karsilastirmalari gibi bircok metinsel islem gerceklestirilebilir.
 
-?rnek kullan?m:
+Ornek kullanim:
 ```java
 String mesaj = "Merhaba, ";
 String kisi = "Ahmet";
 String tamMesaj = mesaj + kisi; // "Merhaba, Ahmet"
 ```
 
-`String` veri tipi, Java'daki metinsel operasyonlar ve metinle ilgili i?lemlerde yayg?n olarak kullan?l?r.
+`String` veri tipi, Java'daki metinsel operasyonlar ve metinle ilgili islemlerde yaygin olarak kullanilir.

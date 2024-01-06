@@ -1,26 +1,26 @@
-Yaz?m Kurallar?
+Yazim Kurallari
 
-	T?rk?e Karakter Kullan?m? : Java ve bir ?ok programlama dili T?rk?e karakter desteklememektedir. Programda ki metin ifadeleri d???nda T?rk?e karakter kullan?lmamal?d?r. T?rk?e Karakterler : ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+	Turkce Karakter Kullanimi : Java ve bir cok programlama dili Turkce karakter desteklememektedir. Programda ki metin ifadeleri disinda Turkce karakter kullanilmamalidir. Turkce Karakterler : c, i, u, g, o, s, I, G, U, O, S, C
 	
-	Harf Duyarl?l??? : Java harfe duyarl? bir dildir. Kelimelerdeki k???k ve b?y?k harfler farkl? olarak alg?lan?r. 
+	Harf Duyarliligi : Java harfe duyarli bir dildir. Kelimelerdeki kucuk ve buyuk harfler farkli olarak algilanir. 
 
-	S?n?f Adlar? : Java’da s?n?f adlar?n?n ilk harfi b?y?k olmal?d?r. E?er 2 kelimeyi birle?tirerek bir s?n?f ad? olu?turursak bu isimlerin ba? harfleri b?y?k olmal?d?r. ?rnek: CamelCase
+	Sinif Adlari : Java’da sinif adlarinin ilk harfi buyuk olmalidir. Eger 2 kelimeyi birlestirerek bir sinif adi olusturursak bu isimlerin bas harfleri buyuk olmalidir. Ornek: CamelCase
 	
-	Metot Adlar? : Metot adlar? k???k harfle ba?lar. Metot ad? verilirken iki kelime birle?tirilecekse ismin ba?lang?? harfi k???k di?er birle?tirilen kelimelerin ba?lang?? harfleri b?y?k yaz?l?r. ?rnek: camelCaseOrnek
+	Metot Adlari : Metot adlari kucuk harfle baslar. Metot adi verilirken iki kelime birlestirilecekse ismin baslangic harfi kucuk diger birlestirilen kelimelerin baslangic harfleri buyuk yazilir. Ornek: camelCaseOrnek
 
 
 https://juniortoexpert.com/tr/degisken-isimlendirme-kurallari/
 
 
-Java'da ?simlendirme Kurallar?
+Java'da Isimlendirme Kurallari
 
-Java'da isimlendirilen t?m ?geler sadece A-Z veya a-z gibi harfler, $ karakteri veya _ karakteri ile ba?layabilirler.
-Keyword’ler (Yasakl? Kelimeler) isimlendirmede kullan?lamaz
+Java'da isimlendirilen tum ogeler sadece A-Z veya a-z gibi harfler, $ karakteri veya _ karakteri ile baslayabilirler.
+Keyword’ler (Yasakli Kelimeler) isimlendirmede kullanilamaz
 
 Keyword.png
 
 
-S?n?flar i?in upper camel case kullan?l?r. HelloWorld
-Metotlar i?in lower camel case kullan?l?r. helloWorld
-De?i?kenler i?in lower camel case kullan?l?r. helloWorld
-Sabitler i?in screaming snake case kullan?l?r. HELLO_WORLD
+Siniflar icin upper camel case kullanilir. HelloWorld
+Metotlar icin lower camel case kullanilir. helloWorld
+Degiskenler icin lower camel case kullanilir. helloWorld
+Sabitler icin screaming snake case kullanilir. HELLO_WORLD
